@@ -34,12 +34,7 @@
       "img": "url de imagem aqui",
       "content": "conteúdo da postagem aqui",
       "likes": 9,
-      "id": 3,
-      "comments": [
-        {
-          "test": "test"
-        }
-      ]
+      "id": 3
     }
   ],
   "comments": [
