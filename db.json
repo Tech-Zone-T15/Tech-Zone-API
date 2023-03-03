@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Kenzinho",
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "profile_img": "url de imagem aqui",
+      "age": 38,
+      "city": "São Paulo"
+    },
+    {
+      "email": "gabriel@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "gabriel",
+      "profile_img": "google.com",
+      "age": "24",
+      "city": "São Bernardo",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "userId": 1,
+      "title": "Ford inventa sistema para controlar carro em caso de falta de pagamento",
+      "img": "url de imagem aqui",
+      "content": "Empresa fez registro de patente de um sistema que bloqueia recursos do automóvel em caso de falta de pagamento.",
+      "likes": 7,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "título do post aqui",
+      "img": "url de imagem aqui",
+      "content": "conteúdo da postagem aqui",
+      "likes": 9,
+      "id": 3,
+      "comments": [
+        {
+          "test": "test"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "postId": 1,
+      "userId": 2,
+      "name": "Gabriel",
+      "profile_img": "https://static.vecteezy.com/system/resources/previews/005/544/718/original/profile-icon-design-free-vector.jpg",
+      "comment": "A Ford fez um pedido de patente para um sistema que permitiria retomar a posse de um carro conectado à internet, caso o dono deixasse de pagar as parcelas do financiamento. Segundo a fabricante, o sistema seria uma solução para o problema de falta de cooperação dos inadimplentes e das tentativas de impedir a operação de reintegração de posse",
+      "id": 1
+    },
+    {
+      "postId": 1,
+      "userId": 1,
+      "name": "Kenzinho",
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShA_I9i6FEd3JTXAl7tS4op0qHA_Z1I2XW3oouHSrQS5IRHYQN00HQy9n_pB7-BFpkExc&usqp=CAU",
+      "comment": "o sistema de reintegração de posse que tem como objetivo facilitar o processo de retomada do automóvel, começando com pequenos incômodos que causariam desconforto ao proprietário",
+      "id": 2
+    },
+    {
+      "postId": 2,
+      "userId": 2,
+      "name": "Gabriel",
+      "profile_img": "https://static.vecteezy.com/system/resources/previews/005/544/718/original/profile-icon-design-free-vector.jpg",
+      "comment": "Eis a prática conhecida como arranjo de armação, forte golpe contra os consumidores e um triste fardo para a visibilidade da empresa. É uma clara violação da boa-fé objetiva pela subordinação do produto principal ao produto acessório",
+      "id": 3
+    },
+    {
+      "postId": 1,
+      "userId": 2,
+      "name": "Gabriel",
+      "profile_img": "https://static.vecteezy.com/system/resources/previews/005/544/718/original/profile-icon-design-free-vector.jpg",
+      "comment": "No Brasil, a taxa de inadimplência de financiamentos de veículos 0 km por pessoas físicas acima de 90 dias aumentou 1,5% no ano passado, saindo de 3,9% em 2021 para 5,4% em 2022, segundo estatísticas do Banco Central. Isso tem impactado diretamente a taxa anual média de juros, que alcançou 28,7%, o maior índice dos últimos anos",
+      "id": 5
+    },
+    {
+      "postId": 2,
+      "userId": 1,
+      "name": "Kenzinho",
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShA_I9i6FEd3JTXAl7tS4op0qHA_Z1I2XW3oouHSrQS5IRHYQN00HQy9n_pB7-BFpkExc&usqp=CAU",
+      "comment": "se a empresa hoje está, através desse novo estratagema, cuidando do meio ambiente, é porque antes assim não agia, o que deve ser objeto de apuração",
+      "id": 6
+    },
+    {
+      "postId": 3,
+      "userId": 2,
+      "name": "Gabriel",
+      "profile_img": "https://static.vecteezy.com/system/resources/previews/005/544/718/original/profile-icon-design-free-vector.jpg",
+      "comment": "comentário teste",
+      "id": 7
+    }
+  ]
+}
