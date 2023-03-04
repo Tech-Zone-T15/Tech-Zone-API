@@ -65,6 +65,12 @@ GET /posts/id_do_post/comments
 
 Obs: É necessário envio do token
 
+### Obter likes de um post
+
+GET /posts/id_do_post/likes
+
+Obs: não é necessário token
+
 ### Curtir publicação
 
 ***Desenvolvendo***

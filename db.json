@@ -90,7 +90,8 @@
   "likes": [
     {
       "postId": 1,
-      "likes": 1
+      "likes": 2,
+      "id": 1
     }
   ]
 }
