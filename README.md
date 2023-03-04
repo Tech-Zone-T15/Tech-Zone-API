@@ -1,4 +1,4 @@
-
+___
 ### Cadastro
 
 POST /users
@@ -14,6 +14,7 @@ Corpo da requisição:<br/>
 "bio": "escreva sobre você"<br/>
 }<br/>
 
+___
 ### Login
 
 POST /login
@@ -24,6 +25,7 @@ Corpo da requisição:<br/>
 "password": "123456"<br/>
 }<br/>
 
+___
 ### Postar Publicação
 
 POST /posts
@@ -38,12 +40,14 @@ Corpo da requisição:<br/>
 
 ***Obs: é necessário o envio do token para autorização***
 
+___
 ### Todos os posts
 
 GET /posts
 
 ***Obs: Não existe corpo de requisição, é necessário envio do token***
 
+___
 ### Comentar
 
 POST /comments
@@ -59,13 +63,14 @@ Corpo da requisição:<br/>
 
 ***Obs: Envio do token é obrigatório, "postId" se refere ao id do post a ser comentado***
 
-### Obter comentário de um post
+___
+### Obter comentários de um post
 
 GET /posts/id_do_post/comments
 
 ***Obs: É necessário envio do token***
 
-
+___
 ### Obter likes de um post
 
 GET /posts/id_do_post/likes
