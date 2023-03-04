@@ -5,13 +5,13 @@ POST /users
 
 Corpo da requisição:<br/>
 {<br/>
-"name": "seu nome aqui",<br/>
-"email": "email@mail.com",<br/>
-"password": "123456",<br/>
-"profile_img": "link de uma imagem",<br/>
-"age": "sua idade",<br/>
-"city": "São Paulo"<br/>
-"bio": "escreva sobre você"<br/>
+    "name": "seu nome aqui",<br/>
+    "email": "email@mail.com",<br/>
+    "password": "123456",<br/>
+    "profile_img": "link de uma imagem",<br/>
+    "age": "sua idade",<br/>
+    "city": "São Paulo"<br/>
+    "bio": "escreva sobre você"<br/>
 }<br/>
 
 ___
@@ -21,8 +21,8 @@ POST /login
 
 Corpo da requisição:<br/>
 {<br/>
-"email": "email@mail.com",<br/>
-"password": "123456"<br/>
+    "email": "email@mail.com",<br/>
+    "password": "123456"<br/>
 }<br/>
 
 ___
@@ -32,10 +32,9 @@ POST /posts
 
 Corpo da requisição:<br/>
 {<br/>
-"userId": id do seu usuário aqui,<br/>
-"img": "url de imagem aqui",<br/>
-"content": "conteúdo da postagem aqui",<br/>
-"likes": 0<br/>
+    "userId": id do seu usuário aqui,<br/>
+    "img": "url de imagem aqui",<br/>
+    "content": "conteúdo da postagem aqui",<br/>
 }<br/>
 
 ***Obs: é necessário o envio do token para autorização***
@@ -54,11 +53,11 @@ POST /comments
 
 Corpo da requisição:<br/>
 {<br/>
-"postId": 2,<br/>
-"userId": 2,<br/>
-"name": "nome do usuário que está comentando",<br/>
-"profile_img": "link da imagem do usuário",<br/>
-"comment": "conteúdo do comentário aqui"<br/>
+    "postId": 2,<br/>
+    "userId": 2,<br/>
+    "name": "nome do usuário que está comentando",<br/>
+    "profile_img": "link da imagem do usuário",<br/>
+    "comment": "conteúdo do comentário aqui"<br/>
 }<br/>
 
 ***Obs: Envio do token é obrigatório, "postId" se refere ao id do post a ser comentado***

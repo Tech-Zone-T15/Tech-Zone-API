@@ -26,14 +26,12 @@
       "userId": 1,
       "img": "url de imagem aqui",
       "content": "Empresa fez registro de patente de um sistema que bloqueia recursos do automóvel em caso de falta de pagamento.",
-      "likes": 7,
       "id": 1
     },
     {
       "userId": 2,
       "img": "url de imagem aqui",
       "content": "conteúdo da postagem aqui",
-      "likes": 9,
       "id": 3
     }
   ],
@@ -92,6 +90,11 @@
       "postId": 1,
       "likes": 2,
       "id": 1
+    },
+    {
+      "postId": 2,
+      "likes": 7,
+      "id": 2
     }
   ]
 }
