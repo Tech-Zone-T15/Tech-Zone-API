@@ -36,13 +36,13 @@ Corpo da requisição:<br/>
 "likes": 0<br/>
 }<br/>
 
-Obs: é necessário o envio do token para autorização
+***Obs: é necessário o envio do token para autorização***
 
 ### Todos os posts
 
 GET /posts
 
-**_Não existe corpo de requisição, é necessário envio do token_**
+***Obs: Não existe corpo de requisição, é necessário envio do token***
 
 ### Comentar
 
@@ -57,19 +57,20 @@ Corpo da requisição:<br/>
 "comment": "conteúdo do comentário aqui"<br/>
 }<br/>
 
-Obs: Envio do token é obrigatório, "postId" se refere ao id do post a ser comentado.
+***Obs: Envio do token é obrigatório, "postId" se refere ao id do post a ser comentado***
 
 ### Obter comentário de um post
 
 GET /posts/id_do_post/comments
 
-Obs: É necessário envio do token
+***Obs: É necessário envio do token***
+
 
 ### Obter likes de um post
 
 GET /posts/id_do_post/likes
 
-Obs: não é necessário token
+***Obs: É necessário envio do token***
 
 ### Curtir publicação
 
