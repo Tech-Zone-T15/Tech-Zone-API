@@ -42,7 +42,7 @@ Obs: é necessário o envio do token para autorização
 
 GET /posts
 
-**_Não existe corpo de requisição e não é necessário envio do token_**
+**_Não existe corpo de requisição, é necessário envio do token_**
 
 ### Comentar
 
@@ -63,7 +63,7 @@ Obs: Envio do token é obrigatório, "postId" se refere ao id do post a ser come
 
 GET /posts/id_do_post/comments
 
-Obs: Não é necessário envio do token
+Obs: É necessário envio do token
 
 ### Curtir publicação
 
