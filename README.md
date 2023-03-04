@@ -72,6 +72,7 @@ GET /posts/id_do_post/likes
 
 ***Obs: É necessário envio do token***
 
+___
 ### Curtir publicação
 
 ***Desenvolvendo***
