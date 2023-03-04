@@ -22,7 +22,6 @@
   "posts": [
     {
       "userId": 1,
-      "title": "Ford inventa sistema para controlar carro em caso de falta de pagamento",
       "img": "url de imagem aqui",
       "content": "Empresa fez registro de patente de um sistema que bloqueia recursos do automóvel em caso de falta de pagamento.",
       "likes": 7,
@@ -30,7 +29,6 @@
     },
     {
       "userId": 2,
-      "title": "título do post aqui",
       "img": "url de imagem aqui",
       "content": "conteúdo da postagem aqui",
       "likes": 9,
