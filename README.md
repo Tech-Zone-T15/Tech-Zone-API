@@ -11,6 +11,7 @@ Corpo da requisição:<br/>
 "profile_img": "link de uma imagem",<br/>
 "age": "sua idade",<br/>
 "city": "São Paulo"<br/>
+"bio": "escreva sobre você"<br/>
 }<br/>
 
 ### Login
