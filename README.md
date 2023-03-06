@@ -62,8 +62,6 @@ Corpo da requisição:<br/>
 {<br/>
     "postId": 2,<br/>
     "userId": 2,<br/>
-    "name": "nome do usuário que está comentando",<br/>
-    "profile_img": "link da imagem do usuário",<br/>
     "comment": "conteúdo do comentário aqui"<br/>
 }<br/>
 
