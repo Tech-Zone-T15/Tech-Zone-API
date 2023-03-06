@@ -5,34 +5,222 @@
       "name": "Kenzinho",
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "profile_img": "url de imagem aqui",
+      "profile_img": "https://media.istockphoto.com/id/1338134336/photo/headshot-portrait-african-30s-man-smile-look-at-camera.jpg?b=1&s=170667a&w=0&k=20&c=j-oMdWCMLx5rIx-_W33o3q3aW9CiAWEvv9XrJQ3fTMU=",
       "age": 38,
       "city": "São Paulo",
-      "bio": ""
+      "bio": "Biografia aqui"
     },
     {
       "email": "gabriel@mail.com",
       "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
       "name": "gabriel",
-      "profile_img": "google.com",
+      "profile_img": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
       "age": "24",
-      "city": "São Bernardo",
-      "bio": "",
+      "city": "São Bernardo do Campo",
+      "bio": "Biografia aqui",
       "id": 2
+    },
+    {
+      "email": "sabrina@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Sabrina",
+      "profile_img": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+      "age": "22",
+      "city": "Curitiba",
+      "bio": "Biografia aqui",
+      "id": 3
+    },
+    {
+      "email": "rafael@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Rafael",
+      "profile_img": "https://t3.ftcdn.net/jpg/02/00/90/24/360_F_200902415_G4eZ9Ok3Ypd4SZZKjc8nqJyFVp1eOD6V.jpg",
+      "age": "34",
+      "city": "Fortaleza",
+      "bio": "Biografia aqui",
+      "id": 4
+    },
+    {
+      "email": "carlos@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Carlos",
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRij6dtiHizH96qpCOe8WeXXP3yLyQJkPdGVg&usqp=CAU",
+      "age": "39",
+      "city": "Brasília",
+      "bio": "Biografia aqui",
+      "id": 5
+    },
+    {
+      "email": "julieta@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Julieta",
+      "profile_img": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/08/profile-photos-4.jpg",
+      "age": "31",
+      "city": "Minas Gerais",
+      "bio": "Biografia aqui",
+      "id": 6
+    },
+    {
+      "email": "maria@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Maria",
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEHuecFy4Eit-YpWENhygz5hotbZ7wuP5xT3NMlDF0piu9AM_IwKQhgv5lwOFiavzyIZM&usqp=CAU",
+      "age": "36",
+      "city": "Salvador",
+      "bio": "Biografia aqui",
+      "id": 7
+    },
+    {
+      "email": "antonio@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Antonio",
+      "profile_img": "https://media.licdn.com/dms/image/D4D08AQE0CXu4hnoe7g/croft-frontend-shrinkToFit1024/0/1646754728586?e=2147483647&v=beta&t=ADkOVwOwmP-4rCH4y0g2_OBFlsszl01TpQPhCgt5SSc",
+      "age": "33",
+      "city": "Salvador",
+      "bio": "Biografia aqui",
+      "id": 8
+    },
+    {
+      "email": "thalita@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Thalita",
+      "profile_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8&w=1000&q=80",
+      "age": "25",
+      "city": "Florianópolis",
+      "bio": "Biografia aqui",
+      "id": 9
+    },
+    {
+      "email": "neymar@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Neymar",
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYLRJDy_VeuNTl70JdMZPDKEIX8ZWO1Ow-w&usqp=CAU",
+      "age": "31",
+      "city": "Florianópolis",
+      "bio": "Biografia aqui",
+      "id": 10
     }
   ],
   "posts": [
     {
       "userId": 1,
-      "img": "url de imagem aqui",
-      "content": "Empresa fez registro de patente de um sistema que bloqueia recursos do automóvel em caso de falta de pagamento.",
+      "img": "https://tech.ed.gov/files/2019/05/publications-ed-tech-developers-guide.jpg",
+      "content": "Cientistas descobrem nova forma de armazenar dados em moléculas de DNA.",
       "id": 1
     },
     {
       "userId": 2,
-      "img": "url de imagem aqui",
-      "content": "conteúdo da postagem aqui",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8fqS2ldBqU2y99yVbSnEkUlSKLIcCkJ1d_n6skFihivvQdqPrXz8ib6cvmTPzZKFyhns&usqp=CAU",
+      "content": "Apple anuncia lançamento de novo iPhone com câmera tripla e reconhecimento facial avançado.",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNdoQAwFdTEF53IXDdX-s_Z5-d5OLT0Y-FM9rAjwQG41vAkMoPUmFw4C13_xSJcXkADe4&usqp=CAU",
+      "content": "Microsoft compra GitHub por US$ 7,5 bilhões.",
       "id": 3
+    },
+    {
+      "userId": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4P3DLt_TSFdF7WBkWc3_McztgUYwPZVEvBb2ENlmKY3w8jx3BCURv7xF6RTw6BsX9Ck&usqp=CAU",
+      "content": "Desenvolvedores criam algoritmo para detecção automática de deepfakes.",
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH3BXUpT2A6MrqL6IVwbCFmBoH3d3pjjCGv5fnZEoKebTJJ-PIpVTUrCuKZjrLRPOzF70&usqp=CAU",
+      "content": "Novo estudo aponta que o uso excessivo de redes sociais pode levar à depressão.",
+      "id": 5
+    },
+    {
+      "userId": 6,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDGLhWZf7mBcUXj-YBViT1UHFRH6xWHTTIEC95uued_HCs5MdpELzA9kRNoMDfu3Ilx0&usqp=CAU",
+      "content": "Empresa de tecnologia chinesa supera a Apple e se torna a segunda maior fabricante de smartphones do mundo.",
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvp9oEDaEYNStRLrGSgangHHTbWXAiCNB3li6lm5LRFj2otKXhdQc2ESQtm9CeBmIzunc&usqp=CAU",
+      "content": "Google lança novo serviço de streaming de jogos chamado Stadia.",
+      "id": 7
+    },
+    {
+      "userId": 8,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfJNqyYTtJIXV_AySwRJY0TgrKv2mmbq1thiWCo3GtzLqKtToSFKMfRdVFJF9QLyC77HQ&usqp=CAU",
+      "content": "Criptomoedas batem recorde histórico e ultrapassam a marca de US$ 1 trilhão em valor de mercado.",
+      "id": 8
+    },
+    {
+      "userId": 9,
+      "img": "https://elearningindustry.com/wp-content/uploads/2015/10/learning-technologies-fundamentals-part-1.jpg",
+      "content": "Novo estudo revela que inteligência artificial pode ajudar a prever surtos de doenças infecciosas.",
+      "id": 9
+    },
+    {
+      "userId": 10,
+      "img": "https://cdn.elearningindustry.com/wp-content/uploads/2022/01/shutterstock_739408204.jpg",
+      "content": "Ano que vem to indo pro Flamengo! #tchauEuropa",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShKNdfG9scytuUsZzOm9Ow3yttQ7gS2glE1xKkVcXtbviLK1J6CJcyt4hPiBpPAItu5E&usqp=CAU",
+      "content": "Facebook é multado em US$ 5 bilhões por violação de privacidade de usuários.",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAT24O22yx1mnS9q2376qcrDFZjmcrvpP1X2IdQu_quX5gByY8O58VYd062HcPaUZCSTQ&usqp=CAU",
+      "content": "Netflix anuncia produção de série baseada no jogo The Witcher.",
+      "id": 12
+    },
+    {
+      "userId": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ8RTNbP0MOGdYbngZe3MHeSgZiRFrzkhenvE-RCuBgpj8wybNProWvx4o0vef94M5cSM&usqp=CAU",
+      "content": "Pesquisadores desenvolvem algoritmo que pode ajudar a detectar câncer de pele.",
+      "id": 13
+    },
+    {
+      "userId": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSs9vLlkspWZvovYSm7XbzJhlWFUMMPw6bgLHizXxjcHYRuyeyX5apBhBbyhtLc1YhsY&usqp=CAU",
+      "content": "Intel anuncia novo processador com velocidade de clock de 5 GHz.",
+      "id": 14
+    },
+    {
+      "userId": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvMIVXLYllJ48_bQbeCyojcil9o5kozMhlyquZlwe--sfqg9QCD2U6fRHQJFKYGJ-qWg&usqp=CAU",
+      "content": "Novo estudo revela que o uso de redes sociais pode afetar a qualidade do sono.",
+      "id": 15
+    },
+    {
+      "userId": 6,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXjbKmhYj2AwnRW1eEl_Zyqt0ZApfaPSKS1jov3tKvLgeadDnfFnm6Iyi_9LJgyAGAWg&usqp=CAU",
+      "content": "Amazon anuncia serviço de entrega por drones chamado Prime Air.",
+      "id": 16
+    },
+    {
+      "userId": 7,
+      "img": "https://www.pwc.com/content/dam/pwc/sg/en/risk-assurance/assets/grc-technology-video/jcr:content/renditions/original/jcr:content",
+      "content": "Microsoft anuncia fim do suporte ao Windows 7 a partir de janeiro de 2020.",
+      "id": 17
+    },
+    {
+      "userId": 8,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2CxpYhbz123Y4NhbKhOcLEopeP5T9KlYqq5riltH0_V5FJzCsJOpgy1khXPfC51FieU&usqp=CAU",
+      "content": "Google anuncia investimento de US$ 10 bilhões em escritórios e data centers nos EUA.",
+      "id": 18
+    },
+    {
+      "userId": 9,
+      "img": "https://sdsol.com/includes/img/tech-consult.jpg",
+      "content": "Novo estudo indica que a inteligência artificial pode ajudar a prever ataques cardíacos.",
+      "id": 19
+    },
+    {
+      "userId": 10,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHSfR_sUZ_mHVDIjE_bYd5aQkFxcPPaq1YoyiwtKq0eoLNlcNs-8hUfzv_dDsXHYcWWOM&usqp=CAU",
+      "content": "NASA anuncia missão para enviar homem e mulher à Lua até 2024.",
+      "id": 20
     }
   ],
   "comments": [
@@ -59,6 +247,14 @@
       "profile_img": "https://static.vecteezy.com/system/resources/previews/005/544/718/original/profile-icon-design-free-vector.jpg",
       "comment": "Eis a prática conhecida como arranjo de armação, forte golpe contra os consumidores e um triste fardo para a visibilidade da empresa. É uma clara violação da boa-fé objetiva pela subordinação do produto principal ao produto acessório",
       "id": 3
+    },
+    {
+      "postId": 1,
+      "userId": 3,
+      "name": "Sabrina",
+      "profile_img": "https://newprofilepic2.photo-cdn.net//assets/images/article/profile.jpg",
+      "comment": "sensacional",
+      "id": 4
     },
     {
       "postId": 1,
