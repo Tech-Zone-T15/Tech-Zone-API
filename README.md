@@ -26,6 +26,13 @@ Corpo da requisição:<br/>
 }<br/>
 
 ___
+### Auto Login
+
+GET /users/user_id
+
+***Obs: é necessário o envio do token***
+
+___
 ### Postar Publicação
 
 POST /posts
