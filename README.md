@@ -51,7 +51,7 @@ ___
 
 GET /posts
 
-***Obs: Não existe corpo de requisição, é necessário envio do token***
+***Obs: É necessário envio do token***
 
 ___
 ### Comentar
