@@ -12,7 +12,8 @@ const rules = auth.rewriter({
   users: 640,
   posts: 640,
   comments: 640,
-  likes: 660
+  likes: 660,
+  tags: 640
 });
 
 app.use(cors());

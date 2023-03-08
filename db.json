@@ -13,7 +13,7 @@
     {
       "email": "gabriel@mail.com",
       "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
-      "name": "gabriel",
+      "name": "Gabriel",
       "profile_img": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
       "age": "24",
       "city": "São Bernardo do Campo",
@@ -99,7 +99,107 @@
       "city": "Paris",
       "bio": "Biografia aqui",
       "id": 10
-    }
+    },
+    {
+      "email": "lucas@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Lucas",
+      "profile_img": "https://images.unsplash.com/photo-1497316730643-415fac54a2af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "age": 22,
+      "city": "São Paulo",
+      "bio": "Desenvolvedor de software apaixonado por tecnologia.",
+      "id": 11
+    },
+    {
+      "email": "ana@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Ana",
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKEjvuE1yIldVaU-3CWixE_RW4VCBgOSa476i4gO_nxYrv6fKIlyqmnB6J_gaIQg_EYs&usqp=CAU",
+      "age": 30,
+      "city": "Belo Horizonte",
+      "bio": "Apaixonada por música e tecnologia, sempre em busca de novas experiências.",
+      "id": 12
+    },
+    {
+      "email": "carla.silva@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Carla Silva",
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFAHQy4bA-SCIjpLy5k_nnXJFEFjTHf-e_AsVNQ2JNhArQFNDtRuQDHFXMbBidLq2trM&usqp=CAU",
+      "age": 32,
+      "city": "Rio de Janeiro",
+      "bio": "Sou uma pessoa alegre e adoro dançar nas horas vagas.",
+      "id": 13
+    },
+    {
+      "email": "felipe.santos@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Felipe Santos",
+      "profile_img": "https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_0.jpg",
+      "age": 23,
+      "city": "Belo Horizonte",
+      "bio": "Sou um estudante de engenharia e gosto de jogar videogame nas horas vagas.",
+      "id": 14
+    },
+    {
+      "email": "ana.silva@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Ana Silva",
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHvEGamFasFcudDxAlTzNzd2ZsSRKsmf4Uw&usqp=CAU",
+      "age": 33,
+      "city": "Curitiba",
+      "bio": "Sou uma pessoa criativa e adoro desenhar nas horas vagas.",
+      "id": 15
+    },
+    {
+      "email": "joao.santos@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "João Santos",
+      "profile_img": "https://i.pinimg.com/736x/87/79/e6/8779e6eea8f91fdd8e14bcb389d75cfe.jpg",
+      "age": 20,
+      "city": "Fortaleza",
+      "bio": "Sou um estudante de administração e gosto de jogar futebol nas horas vagas.",
+      "id": 16
+    },
+    {
+      "email": "maria.oliveira@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Maria Oliveira",
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPacjLQPagt47WPkbtd0HahZI0U9vrJU0MmvVmnG8Ncl4n0J8n_9Idrqa2Nf2rrbT6P3Q&usqp=CAU",
+      "age": 27,
+      "city": "Porto Alegre",
+      "bio": "Sou uma pessoa dedicada e adoro cozinhar nas horas vagas.",
+      "id": 17
+    },
+    {
+      "email": "pedro.silva@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Pedro Silva",
+      "profile_img": "https://media.istockphoto.com/id/1400618001/photo/profile-headshot-portrait-of-a-handsome-smiling-african-american-man-with-beard-and-mustache.jpg?b=1&s=170667a&w=0&k=20&c=hvLszdWnBkWp0jC6cmyroGuxuDuHGrmJY8qK_cv5NAw=",
+      "age": 45,
+      "city": "Brasília",
+      "bio": "Sou um advogado e gosto de assistir filmes nas horas vagas.",
+      "id": 18
+    },
+    {
+      "email": "thiago.oliveira@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Thiago Oliveira",
+      "profile_img": "https://images.unsplash.com/photo-1539694265588-f101b5569bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHw%3D&w=1000&q=80",
+      "age": 22,
+      "city": "São Luís",
+      "bio": "Sou um estudante de medicina e adoro jogar videogame nas horas vagas.",
+      "id": 19
+    },
+    {
+      "email": "camila.souza@mail.com",
+      "password": "$2a$10$H5lnd/sYuogHhTagR0XkbeJ4mb1uq5sxGtkJDXrjRT0PDPKMhiB9m",
+      "name": "Camila Souza",
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECE9vawCStTJ4L1qit9vKyPAUA753Ed9xxnoQa1Abd6HkUZDn5r01zAlqSR2rxw24LXY&usqp=CAU",
+      "age": 35,
+      "city": "Natal",
+      "bio": "Sou uma pessoa determinada e gosto de praticar yoga nas horas vagas.",
+      "id": 20
+    }    
   ],
   "posts": [
     {
@@ -276,13 +376,25 @@
   "likes": [
     {
       "postId": 1,
-      "likes": 2,
+      "userId": 1,
       "id": 1
     },
     {
       "postId": 2,
-      "likes": 7,
+      "userId": 2,
       "id": 2
     }
+  ],
+  "tags": [
+      {
+        "postId": 1,
+        "tags": ["HTML", "CSS", "JavaScript", "React", "Angular", "Vue.js", "TypeScript", "Node.js"],
+        "id": 1
+      },
+      {
+        "postId": 2,
+        "tags": ["HTML"],
+        "id": 2
+      }
   ]
 }
