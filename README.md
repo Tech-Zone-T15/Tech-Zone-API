@@ -107,6 +107,6 @@ Resposta:<br/>
 		"id": 1
 	}
 ]<br/>
-Obs: Para renderizar o usuário seguido será necessário fazer um GET em /users/id, no exemplo acima seria um GET em /users/2
+***Obs: Para renderizar o usuário seguido será necessário fazer um GET em /users/id, no exemplo acima seria um GET em /users/2***
 
 # Tech-Zone-API
