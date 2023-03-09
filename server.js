@@ -13,6 +13,7 @@ const rules = auth.rewriter({
   posts: 640,
   comments: 640,
   likes: 660,
+  follow: 640,
   tags: 640
 });
 

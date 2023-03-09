@@ -84,6 +84,29 @@ GET /posts/id_do_post/likes
 ___
 ### Curtir publicação
 
-***Desenvolvendo***
+POST /likes
+
+Corpo da requisição:<br/>
+{<br/>
+    "postId": id do post,<br/>
+    "userId": id do user logado,<br/>
+}<br/>
+
+***Obs: É necessário envio do token, será necessário verificar se já existe o like do user para aquele post, caso haja o like a requisição não deverá ser feita***
+
+___
+### Obter IDS que o usuário segue
+
+GET /users/user_id/follow
+
+Resposta:<br/>
+[<br/>
+	{
+		"userId": 1,
+		"follows": 2,
+		"id": 1
+	}
+]<br/>
+Obs: Para renderizar o usuário seguido será necessário fazer um GET em /users/id, no exemplo acima seria um GET em /users/2
 
 # Tech-Zone-API
